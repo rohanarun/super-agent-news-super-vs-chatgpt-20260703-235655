@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[channelnewsasia.com](https://www.channelnewsasia.com/business/exclusive-zuckerberg-says-ai-agent-tech-developing-more-slowly-expected-6228906)",
+    "[blog.google](https://blog.google/)",
+    "[yahoo.com](https://news.yahoo.com/)",
+    "[androidauthority.com](https://www.androidauthority.com/)"
+  ],
+  "design_plan": "rng=42; audience=AIDA pass (Attention: centered hero, Interest: fair ChatGPT framing, Desire: cache advantage, Action: clear CTA); hero_math=1120px max-width yields 2\u20133 lines; bento_density=compare-grid grid-auto-flow:dense verified; labels=competitors sweep OK; button_contrast=ink/white pills AA.",
+  "generated_at": "2026-07-03T23:57:02.079982+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is the world\u2019s most capable general AI assistant. Super is purpose\u2011built for people who want a personal AI agent that actually operates a computer \u2014 and gets better and cheaper over time by reusing a computer-use cache. This page compares where ChatGPT shines, where it\u2019s still evolving toward agents, and why Super is the sharper alternative for repeated computer\u2011use workflows."
+}
